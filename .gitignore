@@ -1,6 +1,5 @@
 .Rproj.user
 .Rhistory
-.RData
 .Ruserdata
 *.bed
 *.tab
@@ -17,5 +16,5 @@
 *.pdf
 *.RData
 *.rdx
-*.rds
 *.pdf
+*.rds
