@@ -1,0 +1,655 @@
+@TechReport{Team2016,
+  Title                    = {{R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. https://www.R-project.org/}},
+  Author                   = {R Core Team},
+  Year                     = {2016}
+}
+
+@TechReport{Oksanen2016,
+  Title                    = {{vegan: Community Ecology Package. R package version 2.4-0. https://CRAN.R-project.org/package=vegan}},
+  Author                   = {Oksanen, J. and Blanchet, G. and Friendly, M. and Kindt, R. and Legendre, P. and McGlinn, D. and Minchin, P.R. and O'Hara, R.B. and Simpson, G.L. and Solymos, P. and Stevens, H. and Szoecs, E. and Wagner, H.},
+  Year                     = {2016}
+}
+
+@article{Chao2014,
+   author = {Chao, A. and Gotelli, N. J. and Hsieh, T. C. and Sander, E. L. and Ma, K. H. and Colwell, R. K. and Ellison, A. M.},
+   title = {Rarefaction and extrapolation with Hill numbers: a framework for sampling and estimation in species diversity studies},
+   journal = {Ecological Monographs},
+   volume = {84},
+   number = {1},
+   pages = {45-67},
+   ISSN = {0012-9615},
+   DOI = {10.1890/13-0133.1},
+   url = {<Go to ISI>://WOS:000331215700004},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{Chao2012,
+   author = {Chao, A. and Jost, L.},
+   title = {Coverage-based rarefaction and extrapolation: standardizing samples by completeness rather than size},
+   journal = {Ecology},
+   volume = {93},
+   number = {12},
+   pages = {2533-2547},
+   ISSN = {0012-9658},
+   DOI = {Doi 10.1890/11-1952.1},
+   url = {<Go to ISI>://WOS:000312892500005},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{Chiu2016,
+   author = {Chiu, C. H. and Chao, A.},
+   title = {Estimating and comparing microbial diversity in the presence of sequencing errors},
+   journal = {Peerj},
+   volume = {4},
+   ISSN = {2167-8359},
+   DOI = {ARTN e1634
+10.7717/peerj.1634},
+   url = {<Go to ISI>://WOS:000369408400004},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{Colwell2012,
+   author = {Colwell, R. K. and Chao, A. and Gotelli, N. J. and Lin, S. Y. and Mao, C. X. and Chazdon, R. L. and Longino, J. T.},
+   title = {Models and estimators linking individual-based and sample-based rarefaction, extrapolation and comparison of assemblages},
+   journal = {Journal of Plant Ecology},
+   volume = {5},
+   number = {1},
+   pages = {3-21},
+   ISSN = {1752-9921},
+   DOI = {10.1093/jpe/rtr044},
+   url = {<Go to ISI>://WOS:000299103600002},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@Article{McMurdie2014,
+  Title                    = {Waste Not, Want Not: Why Rarefying Microbiome Data Is Inadmissible},
+  Author                   = {McMurdie, P. J. and Holmes, S.},
+  Journal                  = {PLOS Computational Biology},
+  Year                     = {2014},
+  Number                   = {4},
+  Volume                   = {10},
+
+  Abstract                 = {Current practice in the normalization of microbiome count data is inefficient in the statistical sense. For apparently historical reasons, the common approach is either to use simple proportions (which does not address heteroscedasticity) or to use rarefying of counts, even though both of these approaches are inappropriate for detection of differentially abundant species. Well-established statistical theory is available that simultaneously accounts for library size differences and biological variability using an appropriate mixture model. Moreover, specific implementations for DNA sequencing read count data (based on a Negative Binomial model for instance) are already available in RNA-Seq focused R packages such as edgeR and DESeq. Here we summarize the supporting statistical theory and use simulations and empirical data to demonstrate substantial improvements provided by a relevant mixture model framework over simple proportions or rarefying. We show how both proportions and rarefied counts result in a high rate of false positives in tests for species that are differentially abundant across sample classes. Regarding microbiome sample-wise clustering, we also show that the rarefying procedure often discards samples that can be accurately clustered by alternative methods. We further compare different Negative Binomial methods with a recently-described zero-inflated Gaussian mixture, implemented in a package called metagenomeSeq. We find that metagenomeSeq performs well when there is an adequate number of biological replicates, but it nevertheless tends toward a higher false positive rate. Based on these results and well-established statistical theory, we advocate that investigators avoid rarefying altogether. We have provided microbiome-specific extensions to these tools in the R package, phyloseq.
+Author Summary The term microbiome refers to the ecosystem of microbes that live in a defined environment. The decreasing cost and increasing speed of DNA sequencing technology has recently provided scientists with affordable and timely access to the genes and genomes of microbiomes that inhabit our planet and even our own bodies. In these investigations many microbiome samples are sequenced at the same time on the same DNA sequencing machine, but often result in total numbers of sequences per sample that are vastly different. The common procedure for addressing this difference in sequencing effort across samples - different library sizes - is to either (1) base analyses on the proportional abundance of each species in a library, or (2) rarefy, throw away sequences from the larger libraries so that all have the same, smallest size. We show that both of these normalization methods can work when comparing obviously-different whole microbiomes, but that neither method works well when comparing the relative proportions of each bacterial species across microbiome samples. We show that alternative methods based on a statistical mixture model perform much better and can be easily adapted from a separate biological sub-discipline, called RNA-Seq analysis.},
+  Keywords                 = {rna-seq experiments
+differential expression analysis
+multivariate-analysis
+species richness
+gene-expression
+sequencing data
+count data
+diversity
+communities
+normalization}
+}
+
+@article{Gryp2020,
+   author = {Gryp, Tessa and De Paepe, Kim and Vanholder, Raymond and Kerckhof, Frederiek-Maarten and Van Biesen, Wim and Van de Wiele, Tom and Verbeke, Francis and Speeckaert, Marijn and Joossens, Marie and Couttenye, Marie Madeleine and Vaneechoutte, Mario and Glorieux, Griet},
+   title = {Gut microbiota generation of protein-bound uremic toxins and related metabolites is not altered at different stages of chronic kidney disease},
+   journal = {Kidney International},
+   ISSN = {0085-2538},
+   DOI = {10.1016/j.kint.2020.01.028},
+   url = {https://doi.org/10.1016/j.kint.2020.01.028},
+   type = {Journal Article}
+}
+
+@article{Vandeputte2017,
+   author = {Vandeputte, D. and Kathagen, G. and D'hoe, K. and Vieira-Silva, S. and Valles-Colomer, M. and Sabino, J. and Wang, J. and Tito, R. Y. and De Commer, L. and Darzi, Y. and Ermeire, S. V. and Falony, G. and Raes, J.},
+   title = {Quantitative microbiome profiling links gut community variation to microbial load},
+   journal = {Nature},
+   volume = {551},
+   number = {7681},
+   pages = {507-+},
+   ISSN = {0028-0836},
+   DOI = {10.1038/nature24460},
+   url = {<Go to ISI>://WOS:000416043700046},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{Vandeputte2016,
+   author = {Vandeputte, D. and Falony, G. and Vieira-Silva, S. and Tito, R. Y. and Joossens, M. and Raes, J.},
+   title = {Stool consistency is strongly associated with gut microbiota richness and composition, enterotypes and bacterial growth rates},
+   journal = {Gut},
+   volume = {65},
+   number = {1},
+   pages = {57-62},
+   ISSN = {0017-5749},
+   DOI = {10.1136/gutjnl-2015-309618},
+   url = {<Go to ISI>://WOS:000366400500011},
+   year = {2016},
+   type = {Journal Article}
+}
+
+
+@Article{VanNevel2013,
+  Title                    = {Routine bacterial analysis with automated flow cytometry},
+  Author                   = {Van Nevel, S. and Koetzsch, S. and Weilenmann, H. U. and Boon, N. and Hammes, F.},
+  Journal                  = {Journal of Microbiological Methods},
+  Year                     = {2013},
+  Number                   = {2},
+  Pages                    = {73-76},
+  Volume                   = {94}
+}
+
+@Article{Gower1966,
+  Title                    = {Some Distance Properties of Latent Root and Vector Methods Used in Multivariate Analysis},
+  Author                   = {Gower, J. C.},
+  Journal                  = {Biometrika},
+  Year                     = {1966},
+  Pages                    = {325-338},
+  Volume                   = {53}
+}
+
+@Article{Cailliez1983,
+  Title                    = {The Analytical Solution of the Additive Constant Problem},
+  Author                   = {Cailliez, F.},
+  Journal                  = {Psychometrika},
+  Year                     = {1983},
+  Number                   = {2},
+  Pages                    = {305-308},
+  Volume                   = {48}
+}
+
+@Book{Becker1988,
+  Title                    = {The new S language: a programming environment for data analysis and graphics},
+  Author                   = {Becker, Richard A. and Chambers, John M. and Wilks, Allan R.},
+  Publisher                = {Wadsworth and Brooks/Cole Advanced Books \& Software},
+  Year                     = {1988}
+}
+
+@Article{Cox2001,
+  Title                    = {Multidimensional scaling used in multivariate statistical process control},
+  Author                   = {Cox, T. F.},
+  Journal                  = {Journal of Applied Statistics},
+  Year                     = {2001},
+  Number                   = {3-4},
+  Pages                    = {365-378},
+  Volume                   = {28},
+
+  Abstract                 = {This paper considers the use of multidimensional scaling techniques in multivariate statistical process control. Principal components analysis, multiple principal components analysis, partial least squares and PARAFAC models have already been established as useful methods for such, but it should be possible to widen the portfolio of techniques to include others that come under the multidimensional scaling class. Some of these are briefly described-namely classical scaling, non-metric scaling, biplots, Procrustes analysis-and are then used on some gas transportation data provided by Transco.},
+  Keywords                 = {principal component analysis
+batch processes
+charts
+coefficient}
+}
+
+@Article{Anderson2006,
+  Title                    = {Multivariate dispersion as a measure of beta diversity},
+  Author                   = {Anderson, M. J. and Ellingsen, K. E. and McArdle, B. H.},
+  Journal                  = {Ecology Letters},
+  Year                     = {2006},
+  Number                   = {6},
+  Pages                    = {683-693},
+  Volume                   = {9},
+
+  Abstract                 = {Beta diversity can be defined as the variability in species composition among sampling units for a given area. We propose that it can be measured as the average dissimilarity from individual observation units to their group centroid in multivariate space, using an appropriate dissimilarity measure. Differences in beta diversity among different areas or groups of samples can be tested using this approach. The choice of transformation and dissimilarity measure has important consequences for interpreting results. For kelp holdfast assemblages from New Zealand, variation in species composition was greater in smaller holdfasts, while variation in relative abundances was greater in larger holdasts. Variation in community structure of Norwegian continental shelf macrobenthic fauna increased with increases in environmental heterogeneity, regardless of the measure used. We propose a new dissimilarity measure which allows the relative weight placed on changes in composition vs. abundance to be specified explicitly.},
+  Keywords                 = {beta diversity
+community structure
+dissimilarity measures
+kelp holdfasts
+macrobenthos
+multivariate dispersion
+species abundance
+species composition
+transformations
+variability
+community structure
+temporal variability
+resemblance measures
+spatial-patterns
+assemblages
+distance
+populations
+similarity
+variance
+models}
+}
+
+@Article{Ramette2007,
+  Title                    = {Multivariate analyses in microbial ecology},
+  Author                   = {Ramette, A.},
+  Journal                  = {FEMS Microbiology Ecology},
+  Year                     = {2007},
+  Number                   = {2},
+  Pages                    = {142-160},
+  Volume                   = {62},
+
+  Abstract                 = {Environmental microbiology is undergoing a dramatic revolution due to the increasing accumulation of biological information and contextual environmental parameters. This will not only enable a better identification of diversity patterns, but will also shed more light on the associated environmental conditions, spatial locations, and seasonal fluctuations, which could explain such patterns. Complex ecological questions may now be addressed using multivariate statistical analyses, which represent a vast potential of techniques that are still underexploited. Here, well-established exploratory and hypothesis-driven approaches are reviewed, so as to foster their addition to the microbial ecologist toolbox. Because such tools aim at reducing data set complexity, at identifying major patterns and putative causal factors, they will certainly find many applications in microbial ecology.},
+  Keywords                 = {ordination
+multivariate
+modeling
+statistics
+gradient
+bacterial community composition
+diversity
+soil
+responses
+distance
+strains
+transformations
+biogeography
+rhizosphere
+populations}
+}
+
+@Book{Borcard2011,
+  Title                    = {Numerical Ecology with R},
+  Author                   = {Borcard, D. and Gillet, F. and Legendre, P.},
+  Publisher                = {Springer Sciece},
+  Year                     = {2011}
+}
+
+@Article{Banerjee1993,
+  Title                    = {Co-integration, Error Correction, and the Econometric Analysis of Non-Stationary Data},
+  Author                   = {Banerjee, A. and Dolado, J. and Galbraith, J.W. and Hendry, D.},
+  Journal                  = {Advanced Texts in Econometrics},
+  Year                     = {1993},
+  Pages                    = {342},
+}
+
+
+@Article{Peres-Neto2006,
+  Title                    = {VARIATION PARTITIONING OF SPECIES DATA MATRICES: ESTIMATION AND COMPARISON OF FRACTIONS},
+  Author                   = {Peres-Neto, Pedro R. and Legendre, Pierre and Dray, Stéphane and Borcard, Daniel},
+  Journal                  = {Ecology},
+  Year                     = {2006},
+  Number                   = {10},
+  Pages                    = {2614-2625},
+  Volume                   = {87}
+}
+
+@Article{Legendre2011,
+  Title                    = {Testing the significance of canonical axes in redundancy analysis},
+  Author                   = {Legendre, P. and Oksanen, J. and ter Braak, C. J. F.},
+  Journal                  = {Methods in Ecology and Evolution},
+  Year                     = {2011},
+  Number                   = {3},
+  Pages                    = {269-277},
+  Volume                   = {2}
+}
+
+@article{Excoffier1992,
+   author = {Excoffier, L. and Smouse, P. E. and Quattro, J. M.},
+   title = {Analysis of Molecular Variance Inferred from Metric Distances among DNA Haplotypes - Application to Human Mitochondrial-DNA Restriction Data},
+   journal = {Genetics},
+   volume = {131},
+   number = {2},
+   pages = {479-491},
+   ISSN = {0016-6731},
+   url = {<Go to ISI>://WOS:A1992HW75900021},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@article{Anderson2001,
+   author = {Anderson, M. J.},
+   title = {A new method for non-parametric multivariate analysis of variance},
+   journal = {Austral Ecology},
+   volume = {26},
+   number = {1},
+   pages = {32-46},
+   ISSN = {1442-9985},
+   DOI = {DOI 10.1111/j.1442-9993.2001.01070.pp.x},
+   url = {<Go to ISI>://WOS:000167002000004},
+   year = {2001},
+   type = {Journal Article}
+}
+
+
+@article{Segata2011,
+   author = {Segata, N. and Izard, J. and Waldron, L. and Gevers, D. and Miropolsky, L. and Garrett, W. S. and Huttenhower, C.},
+   title = {Metagenomic biomarker discovery and explanation},
+   journal = {Genome biology},
+   volume = {12},
+   number = {6},
+   pages = {R60},
+   ISSN = {1474-760X (Electronic)
+1474-7596 (Linking)},
+   DOI = {10.1186/gb-2011-12-6-r60},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/21702898},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{Lin2020,
+   author = {Lin, Huang and Peddada, Shyamal Das},
+   title = {Analysis of compositions of microbiomes with bias correction},
+   journal = {Nature Communications},
+   volume = {11},
+   number = {1},
+   pages = {3514},
+   ISSN = {2041-1723},
+   DOI = {10.1038/s41467-020-17041-7},
+   url = {https://doi.org/10.1038/s41467-020-17041-7},
+   year = {2020},
+   type = {Journal Article}
+}
+
+
+@article{Props2017,
+   author = {Props, R. and Kerckhof, F. M. and Rubbens, P. and De Vrieze, J. and Sanabria, E. H. and Waegeman, W. and Monsieurs, P. and Hammes, F. and Boon, N.},
+   title = {Absolute quantification of microbial taxon abundances},
+   journal = {ISME Journal},
+   volume = {11},
+   number = {2},
+   pages = {584-587},
+   ISSN = {1751-7362},
+   DOI = {10.1038/ismej.2016.117},
+   url = {<Go to ISI>://WOS:000394541500024},
+   year = {2017},
+   type = {Journal Article}
+}
+
+
+@Article{Pruesse2012,
+  Title                    = {{SINA: accurate high-throughput multiple sequence alignment of ribosomal RNA genes}},
+  Author                   = {Pruesse, E. and Peplies, J. and Glockner, F. O.},
+  Journal                  = {Bioinformatics},
+  Year                     = {2012},
+  Number                   = {14},
+  Pages                    = {1823-1829},
+  Volume                   = {28}
+}
+
+
+@Article{Schloss2009,
+  Title                    = {Introducing mothur: Open-Source, Platform-Independent, Community-Supported Software for Describing and Comparing Microbial Communities},
+  Author                   = {Schloss, P. D. and Westcott, S. L. and Ryabin, T. and Hall, J. R. and Hartmann, M. and Hollister, E. B. and Lesniewski, R. A. and Oakley, B. B. and Parks, D. H. and Robinson, C. J. and Sahl, J. W. and Stres, B. and Thallinger, G. G. and Van Horn, D. J. and Weber, C. F.},
+  Journal                  = {Applied and Environmental Microbiology},
+  Year                     = {2009},
+  Number                   = {23},
+  Pages                    = {7537-7541},
+  Volume                   = {75}
+}
+
+
+@Article{Schloss2011,
+  Title                    = {{Assessing and Improving Methods Used in Operational Taxonomic Unit-Based Approaches for 16S rRNA Gene Sequence Analysis}},
+  Author                   = {Schloss, P. D. and Westcott, S. L.},
+  Journal                  = {Applied and Environmental Microbiology},
+  Year                     = {2011},
+  Number                   = {10},
+  Pages                    = {3219-3226},
+  Volume                   = {77},
+  Keywords                 = {estimating species richness
+rare biosphere
+program
+definition
+diversity
+wrinkles
+arb}
+}
+
+
+@Article{Stamatakis2014,
+  Title                    = {RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies},
+  Author                   = {Stamatakis, A.},
+  Journal                  = {Bioinformatics},
+  Year                     = {2014},
+  Number                   = {9},
+  Pages                    = {1312-1313},
+  Volume                   = {30}
+}
+
+@Article{Berger2011,
+  Title                    = {Performance, accuracy, and Web server for evolutionary placement of short sequence reads under maximum likelihood},
+  Author                   = {Berger, S. A. and Krompass, D. and Stamatakis, A.},
+  Journal                  = {Systematic Biology},
+  Year                     = {2011},
+  Number                   = {3},
+  Pages                    = {291-302},
+  Volume                   = {60}
+}
+
+@Article{Letunic2016,
+  Title                    = {Interactive tree of life (iTOL) v3: an online tool for the display and annotation of phylogenetic and other trees},
+  Author                   = {Letunic, I. and Bork, P.},
+  Journal                  = {Nucleic Acids Research},
+  Year                     = {2016},
+  Number                   = {W1},
+  Pages                    = {W242-W245},
+  Volume                   = {44},
+
+  Abstract                 = {Interactive Tree Of Life (http://itol.embl.de) is a webbased tool for the display, manipulation and annotation of phylogenetic trees. It is freely available and open to everyone. The current version was completely redesigned and rewritten, utilizing current web technologies for speedy and streamlined processing. Numerous new features were introduced and several new data types are now supported. Trees with up to 100,000 leaves can now be efficiently displayed. Full interactive control over precise positioning of various annotation features and an unlimited number of datasets allow the easy creation of complex tree visualizations. iTOL 3 is the first tool which supports direct visualization of the recently proposed phylogenetic placements format. Finally, iTOL's account system has been redesigned to simplify the management of trees in user-defined workspaces and projects, as it is heavily used and currently handles already more than 500,000 trees from more than 10,000 individual users.},
+  Keywords                 = {maximum-likelihood
+placement}
+}
+
+@TechReport{Gordon2005,
+  Title                    = {Extending our view of self: the human gut microbiome initiative (HGMI)},
+  Author                   = {Gordon, J.I. and Ley, R. and Wilson, R. and Mardis, E. and Xu, J. and Fraser, C.M. and Relman, D.A.},
+  Year                     = {2005}
+}
+
+
+@Article{Flint2012a,
+  Title                    = {The role of the gut microbiota in nutrition and health},
+  Author                   = {Flint, H. J. and Scott, K. P. and Louis, P. and Duncan, S. H.},
+  Journal                  = {Nature Reviews Gastroenterology \& Hepatology},
+  Year                     = {2012},
+  Number                   = {10},
+  Pages                    = {577-589},
+  Volume                   = {9}
+}
+
+
+@article{Robinson2008,
+   author = {Robinson, M. D. and Smyth, G. K.},
+   title = {Small-sample estimation of negative binomial dispersion, with applications to SAGE data},
+   journal = {Biostatistics (Oxford, England)},
+   volume = {9},
+   number = {2},
+   pages = {321-32},
+   ISSN = {1465-4644 (Print)
+1465-4644 (Linking)},
+   DOI = {10.1093/biostatistics/kxm030},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/17728317},
+   year = {2008},
+   type = {Journal Article}
+}
+
+
+@article{Vandeputte2017,
+   author = {Vandeputte, D. and Falony, G. and Vieira-Silva, S. and Wang, J. and Sailer, M. and Theis, S. and Verbeke, K. and Raes, J.},
+   title = {Prebiotic inulin-type fructans induce specific changes in the human gut microbiota},
+   journal = {Gut},
+   volume = {66},
+   number = {11},
+   pages = {1968-1974},
+   ISSN = {1468-3288 (Electronic)
+0017-5749 (Linking)},
+   DOI = {10.1136/gutjnl-2016-313271},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28213610},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{Song2007,
+  author = {Song, J. S. and Maghsoudi, K. and Li, W. and Fox, E. and Quackenbush, J. and Shirley Liu, X.},
+  title = {Microarray blob-defect removal improves array analysis},
+  journal = {Bioinformatics (Oxford, England)},
+  volume = {23},
+  number = {8},
+  pages = {966-71},
+  ISSN = {1367-4811 (Electronic)
+    1367-4803 (Linking)},
+  DOI = {10.1093/bioinformatics/btm043},
+  url = {https://www.ncbi.nlm.nih.gov/pubmed/17332024},
+  year = {2007},
+  type = {Journal Article}
+}
+
+@article{Moffitt2011,
+   author = {Moffitt, R. A. and Qiqin, Y. G. and Stokes, T. H. and Parry, R. M. and Torrance, J. H. and Phan, J. H. and Young, A. N. and Wang, M. D.},
+   title = {caCORRECT2: Improving the accuracy and reliability of microarray data in the presence of artifacts},
+   journal = {Bmc Bioinformatics},
+   volume = {12},
+   ISSN = {1471-2105},
+   DOI = {Artn 383
+10.1186/1471-2105-12-383},
+   url = {<Go to ISI>://WOS:000296097300001},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{Upton2009,
+   author = {Upton, G. J. and Sanchez-Graillet, O. and Rowsell, J. and Arteaga-Salas, J. M. and Graham, N. S. and Stalteri, M. A. and Memon, F. N. and May, S. T. and Harrison, A. P.},
+   title = {On the causes of outliers in Affymetrix GeneChip data},
+   journal = {Briefings in functional genomics \& proteomics},
+   volume = {8},
+   number = {3},
+   pages = {199-212},
+   ISSN = {1477-4062 (Electronic)
+1473-9550 (Linking)},
+   DOI = {10.1093/bfgp/elp027},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19734302},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{Petri2012,
+   author = {Petri, T. and Berchtold, E. and Zimmer, R. and Friedel, C. C.},
+   title = {Detection and correction of probe-level artefacts on microarrays},
+   journal = {BMC bioinformatics},
+   volume = {13},
+   pages = {114},
+   ISSN = {1471-2105 (Electronic)
+1471-2105 (Linking)},
+   DOI = {10.1186/1471-2105-13-114},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22647057},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{Lippa2010,
+   Author = {Lippa, K. A. and Duewer, D. L. and Salit, M. L. and Game, L. and Causton, H. C.},
+   Title = {Exploring the use of internal and externalcontrols for assessing microarray technical performance},
+   Journal = {BMC research notes},
+   Volume = {3},
+   Pages = {349},
+   Year = {2010}}
+   
+   
+@phdthesis{Bolstad2004,
+   Author = {Bolstad., B. M.},
+   Title = {Low Level Analysis of High-Density Oligonucleotide Data: Background, Normalization and Summarization.},
+   School = {University of California, Berkeley},
+   Type = {PhD thesis},
+   Year = {2004}}
+   
+   
+@article{Ritchie2015,
+   Author = {Ritchie, M. E. and Phipson, B. and Wu, D. and Hu, Y. F. and Law, C. W. and Shi, W. and Smyth, G. K.},
+   Title = {limma powers differential expression analyses for RNA-sequencing and microarray studies},
+   Journal = {Nucleic Acids Research},
+   Volume = {43},
+   Number = {7},
+   Abstract = {limma is an R/Bioconductor software package that provides an integrated solution for analysing data from gene expression experiments. It contains rich features for handling complex experimental designs and for information borrowing to overcome the problem of small sample sizes. Over the past decade, limma has been a popular choice for gene discovery through differential expression analyses of microarray and high-throughput PCR data. The package contains particularly strong facilities for reading, normalizing and exploring such data. Recently, the capabilities of limma have been significantly expanded in two important directions. First, the package can now perform both differential expression and differential splicing analyses of RNA sequencing (RNA-seq) data. All the downstream analysis tools previously restricted to microarray data are now available for RNA-seq as well. These capabilities allow users to analyse both RNA-seq and microarray data with very similar pipelines. Second, the package is now able to go past the traditional gene-wise expression analyses in a variety of ways, analysing expression profiles in terms of co-regulated sets of genes or in terms of higher-order expression signatures. This provides enhanced possibilities for biological interpretation of gene expression differences. This article reviews the philosophy and design of the limma package, summarizing both new and historical features, with an emphasis on recent enhancements and features that have not been previously described.},
+   Keywords = {graphical user-interface
+true null hypotheses
+false discovery rate
+seq data
+2-channel microarrays
+background correction
+gene ontology
+normalization
+bioconductor
+proportion},
+   Year = {2015} }
+
+
+@article{Phipson2016,
+   Author = {Phipson, B. and Lee, S. and Majewski, I. J. and Alexander, W. S. and Smyth, G. K.},
+   Title = {Robust Hyperparameter Estimation Protects against Hypervariable Genes and Improves Power to Detect Differential Expression},
+   Journal = {Annals of Applied Statistics},
+   Volume = {10},
+   Number = {2},
+   Pages = {946-963},
+   Abstract = {One of the most common analysis tasks in genomic research is to identify genes that are differentially expressed (DE) between experimental conditions. Empirical Bayes (EB) statistical tests using moderated genewise variances have been very effective for this purpose, especially when the number of biological replicate samples is small. The EB procedures can, however, be heavily influenced by a small number of genes with very large or very small variances. This article improves the differential expression tests by robustifying the hyperparameter estimation procedure. The robust procedure has the effect of decreasing the informativeness of the prior distribution for outlier genes while increasing its informativeness for other genes. This effect has the double benefit of reducing the chance that hypervariable genes will be spuriously identified as DE while increasing statistical power for the main body of genes. The robust EB algorithm is fast and numerically stable. The procedure allows exact small-sample null distributions for the test statistics and reduces exactly to the original EB procedure when no outlier genes are present. Simulations show that the robustified tests have similar performance to the original tests in the absence of outlier genes but have greater power and robustness when outliers are present. The article includes case studies for which the robust method correctly identifies and downweights genes associated with hidden covariates and detects more genes likely to be scientifically relevant to the experimental conditions. The new procedure is implemented in the limma software package freely available from the Bioconductor repository.},
+   Keywords = {empirical bayes
+outliers
+robustness
+gene expression
+microarrays
+empirical bayes inference
+bioconductor package
+hematopoietic stem
+opposing roles
+variance
+model},
+   Year = {2016} }
+   
+   
+@article{Klaus2016,
+   Author = {Klaus, B. and Reisenauer, S.},
+   Title = {An end to end workflow for differential gene expression using Affymetrix microarrays},
+   Journal = {F1000Research},
+   Volume = {5},
+   Pages = {1384},
+   Abstract = {In this article, we walk through an end-to-end Affymetrix microarray differential expression workflow using Bioconductor packages. This workflow is directly applicable to current "Gene'' type arrays, e.g.the HuGene or MoGene arrays, but can easily be adapted to similar platforms. The data analyzed here is a typical clinical microarray data set that compares inflamed and non-inflamed colon tissue in two disease subtypes. For each disease, the differential gene expression between inflamed- and non-inflamed colon tissue was analyzed. We will start from the raw data CEL files, show how to import them into a Bioconductor ExpressionSet, perform quality control and normalization and finally differential gene expression (DE) analysis, followed by some enrichment analysis.},
+   Keywords = {gene expression
+microarray},
+   Year = {2016} }
+
+
+
+@article{Reiner2003,
+   Author = {Reiner, A. and Yekutieli, D. and Benjamini, Y.},
+   Title = {Identifying differentially expressed genes using false discovery rate controlling procedures},
+   Journal = {Bioinformatics},
+   Volume = {19},
+   Number = {3},
+   Pages = {368-375},
+   Year = {2003} }
+
+
+
+
+@article{Luo2009,
+   Author = {Luo, W. J. and Friedman, M. S. and Shedden, K. and Hankenson, K. D. and Woolf, P. J.},
+   Title = {GAGE: generally applicable gene set enrichment for pathway analysis},
+   Journal = {Bmc Bioinformatics},
+   Volume = {10}
+   ,Year = {2009} }
+
+@article{Luo2003,
+   Author = {Luo, W. and Brouwer, C.},
+   Title = {Pathview: an R/Bioconductor package for pathway-based data integration and visualization},
+   Journal = {Bioinformatics (Oxford, England)},
+   Volume = {29},
+   Number = {14},
+   Pages = {1830-1},
+   Year = {2013} }
+   
+   @article{Alexa2006,
+   Author = {Alexa, A. and Rahnenfuhrer, J. and Lengauer, T.},
+   Title = {Improved scoring of functional groups from gene expression data by decorrelating GO graph structure},
+   Journal = {Bioinformatics (Oxford, England)},
+   Volume = {22},
+   Number = {13},
+   Pages = {1600-7},
+   Year = {2006}}
+
+
+@article{Singh2019,
+   Author = {Singh, A. and Shannon, C. P. and Gautier, B. and Rohart, F. and Vacher, M. and Tebbutt, S. J. and Le Cao, K. A.},
+   Title = {DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays},
+   Journal = {Bioinformatics},
+   Volume = {35},
+   Number = {17},
+   Pages = {3055-3062},
+   Year = {2019} }
+   
+   
+@article{Gonzalez2012,
+   Author = {Gonzalez, I. and Le Cao, K. A. and Davis, M. J. and Dejean, S.},
+   Title = {Visualising associations between paired 'omics' data sets},
+   Journal = {Biodata Mining},
+   Volume = {5},
+   Year = {2012} }
+

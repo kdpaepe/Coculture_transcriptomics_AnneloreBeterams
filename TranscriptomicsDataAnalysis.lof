@@ -1,0 +1,137 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Pseudo-images of the log2 scaled probe intensities.}}{24}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Pseudo-images of the log2 scaled probe intensities from Affymetrix tissue example data.}}{25}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Pseudo-images of the log2 scaled probe intensities from Affymetrix MAQC example data.}}{26}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Density plot of the log2 intensities of all `perfect match' probes.}}{27}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Box plots of the log2 intensities of all `perfect match' probes.}}{28}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Density plot of the background probe log2 intensities}}{29}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Box plots of the background probe log2 intensities}}{30}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Raw log2 intensities of all probes within the probesets corresponding to the spike-in positive and negative controls.}}{35}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Box plots of the raw log2 intensities of all control probes within the probesets corresponding to the spike-in positive and negative controls faceted by the controls.}}{36}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Box plots of the raw log2 intensities of all control probes within the probesets corresponding to the spike-in positive and negative controls faceted by the samples.}}{37}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Box plots of the raw log2 intensities of all control probes within the probesets corresponding to the spike-in positive and negative controls faceted by the controls in the example data.}}{38}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Box plots of the raw log2 intensities of all control probes within the probesets corresponding to the spike-in positive and negative controls faceted by the example samples.}}{39}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Raw log2 intensities of all probes within the probesets corresponding to the bacterial Affymetrix spike-in faceted by the samples. }}{41}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Raw log2 intensities of the BioB, BioC, BioD and Cre bacterial Affymetrix spike-in probes faceted by the samples.}}{42}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Raw log2 intensities of all probes within the probesets corresponding to the polyA Affymetrix spike-in faceted by the samples. }}{43}{figure.4.15}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Raw log2 intensities of all probes within the probesets corresponding to the polyA Affymetrix spike-in faceted by the samples.}}{44}{figure.4.16}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Raw log2 intensities of all probes within the probesets corresponding to the bacterial Affymetrix spike-in faceted by the samples in the example data. }}{45}{figure.4.17}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Raw log2 intensities of the BioB, BioC, BioD and Cre bacterial Affymetrix spike-in probes faceted by the samples in the example data.}}{46}{figure.4.18}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Raw log2 intensities of all probes within the probesets corresponding to the polyA Affymetrix spike-in faceted by the samples in the example data. }}{47}{figure.4.19}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Raw log2 intensities of all probes within the probesets corresponding to the polyA Affymetrix spike-in faceted by the samples in the example data.}}{48}{figure.4.20}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Box plots of the raw log2 intensities of all probes within the probesets corresponding to the housekeeping genes ACTB, GAPHD and HMBS.}}{50}{figure.4.21}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Raw log2 intensities of all probes within the probesets corresponding to the housekeeping genes ACTB, GAPHD and HMBS.}}{51}{figure.4.22}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Box plots of the raw log2 intensities of all probes within the probesets corresponding to the housekeeping genes ACTB, GAPHD and HMBS in the example data.}}{52}{figure.4.23}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Raw log2 intensities of all probes within the probesets corresponding to the housekeeping genes ACTB, GAPHD and HMBS in the example data.}}{53}{figure.4.24}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Affinity splines coefficients indicating base position effects on the log2 intensities.}}{55}{figure.4.25}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Box plots of the log2 intensities in function of the probe GC content.}}{56}{figure.4.26}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Density plot of Log2 intensities for positive and negative controls.}}{59}{figure.4.27}
+\contentsline {figure}{\numberline {4.28}{\ignorespaces ROC curves.}}{60}{figure.4.28}
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Density plot of Log2 intensities for positive and negative controls in the example data.}}{61}{figure.4.29}
+\contentsline {figure}{\numberline {4.30}{\ignorespaces ROC curves from the example data.}}{62}{figure.4.30}
+\contentsline {figure}{\numberline {4.31}{\ignorespaces MA plots.}}{64}{figure.4.31}
+\contentsline {figure}{\numberline {4.32}{\ignorespaces MA plots of the tissue example data.}}{65}{figure.4.32}
+\contentsline {figure}{\numberline {4.33}{\ignorespaces MA plots of the MAQC example data.}}{66}{figure.4.33}
+\contentsline {figure}{\numberline {4.34}{\ignorespaces Percent present calls detected above background at probe level.}}{68}{figure.4.34}
+\contentsline {figure}{\numberline {4.35}{\ignorespaces Percent present calls detected above background at probeset level.}}{69}{figure.4.35}
+\contentsline {figure}{\numberline {4.36}{\ignorespaces Percent present calls detected above background at probe level in the example data.}}{73}{figure.4.36}
+\contentsline {figure}{\numberline {4.37}{\ignorespaces Percent present calls detected above background at probeset level in the example data.}}{74}{figure.4.37}
+\contentsline {figure}{\numberline {4.38}{\ignorespaces Pseudo-images of the estimated residuals from a probe-level model fitting}}{81}{figure.4.38}
+\contentsline {figure}{\numberline {4.39}{\ignorespaces Pseudo-images of the estimated weights from a probe-level model fitting}}{82}{figure.4.39}
+\contentsline {figure}{\numberline {4.40}{\ignorespaces Box plot of the Relative Log Expression (RLE) values based on a probe-level model fitting}}{83}{figure.4.40}
+\contentsline {figure}{\numberline {4.41}{\ignorespaces Box plot of the Normalized Unscaled Standard Errors (NUSE) values based on a probe-level model fitting}}{84}{figure.4.41}
+\contentsline {figure}{\numberline {4.42}{\ignorespaces Box plot of the Relative Log Expression (RLE) values of control probes based on a probe-level model fitting}}{85}{figure.4.42}
+\contentsline {figure}{\numberline {4.43}{\ignorespaces Box plot of the Normalized Unscaled Standard Errors (NUSE) values of control probes based on a probe-level model fitting}}{86}{figure.4.43}
+\contentsline {figure}{\numberline {4.44}{\ignorespaces Pseudo-images of the estimated residuals from a probe-level model fitting of the tissue example data.}}{87}{figure.4.44}
+\contentsline {figure}{\numberline {4.45}{\ignorespaces Pseudo-images of the estimated residuals from a probe-level model fitting of the MAQC example data.}}{88}{figure.4.45}
+\contentsline {figure}{\numberline {4.46}{\ignorespaces Pseudo-images of the estimated weights from a probe-level model fitting of the tissue example data.}}{89}{figure.4.46}
+\contentsline {figure}{\numberline {4.47}{\ignorespaces Pseudo-images of the estimated weights from a probe-level model fitting of the MAQC example data.}}{90}{figure.4.47}
+\contentsline {figure}{\numberline {4.48}{\ignorespaces Box plot of the Relative Log Expression (RLE) values based on a probe-level model fitting of the example data.}}{91}{figure.4.48}
+\contentsline {figure}{\numberline {4.49}{\ignorespaces Box plot of the Normalized Unscaled Standard Errors (NUSE) values based on a probe-level model fitting of the example data.}}{92}{figure.4.49}
+\contentsline {figure}{\numberline {4.50}{\ignorespaces Box plot of the Relative Log Expression (RLE) values of control probes based on a probe-level model fitting of the example data.}}{93}{figure.4.50}
+\contentsline {figure}{\numberline {4.51}{\ignorespaces Box plot of the Normalized Unscaled Standard Errors (NUSE) values of control probes based on a probe-level model fitting of the example data.}}{94}{figure.4.51}
+\contentsline {figure}{\numberline {4.52}{\ignorespaces PCA scores plot of the log2 transformed standardized data.}}{96}{figure.4.52}
+\contentsline {figure}{\numberline {4.53}{\ignorespaces PCA scores plot of the log2 transformed standardized example data.}}{97}{figure.4.53}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces The parameters of the normal and exponential distribution used to deconvolute the probe intensity signals are estimated ad-hoc from the observed probe intensity distributions}}{100}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Biplot of the raw and background corrected intensities.}}{101}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Boxplot of the background-corrected log2 intensities}}{102}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces The principle of Quantile Normalization in 2D}}{104}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Biplot of the background-corrected and normalized intensities.}}{105}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Boxplot of the normalized log2 intensities}}{106}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Histogram of the normalized log2 intensities}}{107}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Boxplot of the summarized log2 intensities.}}{109}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Density plot of the summarized log2 intensities.}}{110}{figure.5.9}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Density plot of the transcript intensities after RMA pre-processing.}}{113}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Box plots of the transcript intensities after RMA pre-processing.}}{114}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Density plot of the background probe intensities after RMA pre-processing.}}{115}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Box plots of the background probe log2 intensities after RMA pre-processing.}}{116}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Box plots of the intensities of all control probes after RMA pre-processing within the probesets corresponding to the spike-in positive and negative controls faceted by the controls.}}{117}{figure.6.5}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Box plots of the intensities of all control probes after RMA pre-processing within the probesets corresponding to the spike-in positive and negative controls faceted by the samples.}}{118}{figure.6.6}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Intensities of all probes after RMA pre-processing within the probesets corresponding to the bacterial Affymetrix spike-in faceted by the samples. }}{119}{figure.6.7}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Intensities of the BioB, BioC, BioD and Cre bacterial Affymetrix spike-in probes after RMA pre-processing faceted by the samples.}}{120}{figure.6.8}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Intensities of all probes after RMA pre-processing within the probesets corresponding to the polyA Affymetrix spike-in faceted by the samples.}}{121}{figure.6.9}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Intensities of all probes after RMA pre-processing within the probesets corresponding to the polyA Affymetrix spike-in faceted by the samples.}}{122}{figure.6.10}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Intensities of all probes after RMA pre-processing within the probesets corresponding to the housekeeping genes ACTB, GAPHD and HMBS.}}{123}{figure.6.11}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Density plot of the RMA pre-processed intensities for positive and negative controls.}}{125}{figure.6.12}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces ROC curves of the RMA pre-processed data.}}{126}{figure.6.13}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces MAplots.}}{127}{figure.6.14}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Detected Above Background plots, with probe intensities per microaray.}}{129}{figure.6.15}
+\contentsline {figure}{\numberline {6.16}{\ignorespaces Pseudo-images of the estimated residuals from a probe-level model fitting after background correction and normalization}}{131}{figure.6.16}
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Pseudo-images of the estimated weights from a probe-level model fitting after background correction and normalization}}{132}{figure.6.17}
+\contentsline {figure}{\numberline {6.18}{\ignorespaces Box plot of the Relative Log Expression (RLE) values based on a probe-level model fitting after background correction and normalization}}{133}{figure.6.18}
+\contentsline {figure}{\numberline {6.19}{\ignorespaces Box plot of the Normalized Unscaled Standard Errors (NUSE) values based on a probe-level model fitting after background correction and normalization}}{134}{figure.6.19}
+\contentsline {figure}{\numberline {6.20}{\ignorespaces Box plot of the Relative Log Expression (RLE) values of control probes based on a probe-level model fitting after background correction and normalization}}{135}{figure.6.20}
+\contentsline {figure}{\numberline {6.21}{\ignorespaces Box plot of the Normalized Unscaled Standard Errors (NUSE) values of control probes based on a probe-level model fitting after background correction and normalization}}{136}{figure.6.21}
+\contentsline {figure}{\numberline {6.22}{\ignorespaces Gating the blob region to extract data of the affected probes.}}{137}{figure.6.22}
+\contentsline {figure}{\numberline {6.23}{\ignorespaces Box plot of the unnormalized raw intensities of the blob probes}}{138}{figure.6.23}
+\contentsline {figure}{\numberline {6.24}{\ignorespaces Box plot of the RMA pre-processed intensities of the blob probes}}{139}{figure.6.24}
+\contentsline {figure}{\numberline {6.25}{\ignorespaces PCA scores plot of the RMA pre-processed standardized data.}}{141}{figure.6.25}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Volcano plots.}}{146}{figure.8.1}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces A large fraction of genes with a median expression below the average background signal (threshold line of 3) was observed.}}{147}{figure.8.2}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Volcano plots of the pre-filtered gene expression data.}}{148}{figure.8.3}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Heatmaps displaying the gene expression of significant genes with abs(LogFC) exceeding 1.}}{149}{figure.8.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Multidensity plot of the average expression strength of the significantly differentially expressed genes of interest, a background set of non-differentially expressed genes with similar average expression strength is defined using the genefinder function from the genefilter package version .}}{151}{figure.9.1}
+\contentsline {figure}{\numberline {9.2}{\ignorespaces GOgraph of the 5 most significant GO BP terms}}{152}{figure.9.2}
+\contentsline {figure}{\numberline {9.3}{\ignorespaces GOgraph of the 5 most significant GO MF terms}}{153}{figure.9.3}
+\contentsline {figure}{\numberline {9.4}{\ignorespaces GOgraph of the 5 most significant GO CC terms}}{154}{figure.9.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Significantly (p$<$0.01) up- (positive LogFC) and downregulated (negative LogFC) KEGG pathways as assessed by gene-set analysis (GSA) in GAGE.}}{157}{figure.10.1}
+\contentsline {figure}{\numberline {10.2}{\ignorespaces KEGG pathview of the ribosome biogenesis pathway in eukayrotes, which was significantly (Adjusted p-value = 2e-06) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{158}{figure.10.2}
+\contentsline {figure}{\numberline {10.3}{\ignorespaces KEGG pathview of the mRNA surveillance pathway, which was significantly (Adjusted p-value = 0.00026) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{159}{figure.10.3}
+\contentsline {figure}{\numberline {10.4}{\ignorespaces KEGG pathview of the RNA degradation pathway, which was significantly (Adjusted p-value = 0.00031) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{160}{figure.10.4}
+\contentsline {figure}{\numberline {10.5}{\ignorespaces KEGG pathview of the spliceosome pathway, which was significantly (Adjusted p-value = 4.1e-07) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{161}{figure.10.5}
+\contentsline {figure}{\numberline {10.6}{\ignorespaces KEGG pathview of the proteasome pathway, which was significantly (Adjusted p-value = 8.3e-06) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{162}{figure.10.6}
+\contentsline {figure}{\numberline {10.7}{\ignorespaces KEGG pathview of the ubiquitin mediated proteolysis pathway, which was significantly (Adjusted p-value = 2.7e-05) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{163}{figure.10.7}
+\contentsline {figure}{\numberline {10.8}{\ignorespaces KEGG pathview of the olfactory transduction pathway, which was upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{164}{figure.10.8}
+\contentsline {figure}{\numberline {10.9}{\ignorespaces KEGG pathview of the taste transduction pathway, which was upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{165}{figure.10.9}
+\contentsline {figure}{\numberline {10.10}{\ignorespaces KEGG pathview of the ribosome pathway, which was significantly (Adjusted p-value = 0.00022) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{167}{figure.10.10}
+\contentsline {figure}{\numberline {10.11}{\ignorespaces KEGG pathview of the RNA transport pathway, which was significantly (Adjusted p-value = 1e-05) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{168}{figure.10.11}
+\contentsline {figure}{\numberline {10.12}{\ignorespaces KEGG pathview of the MAPK signaling pathway, which was significantly (Adjusted p-value = 8.5e-06) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{169}{figure.10.12}
+\contentsline {figure}{\numberline {10.13}{\ignorespaces KEGG pathview of the HIF-1 signaling pathway, which was significantly (Adjusted p-value = 0.0052) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{170}{figure.10.13}
+\contentsline {figure}{\numberline {10.14}{\ignorespaces KEGG pathview of the neuroactive ligand-receptor pathway, which was upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{171}{figure.10.14}
+\contentsline {figure}{\numberline {10.15}{\ignorespaces KEGG pathview of the protein processing in endoplasmic reticulum, which was significantly (2.0e-06) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{172}{figure.10.15}
+\contentsline {figure}{\numberline {10.16}{\ignorespaces KEGG pathview of endocytosis, which was significantly (0.00024) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{173}{figure.10.16}
+\contentsline {figure}{\numberline {10.17}{\ignorespaces KEGG pathview of necroptosis, which was significantly (1.2e-07) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{174}{figure.10.17}
+\contentsline {figure}{\numberline {10.18}{\ignorespaces KEGG pathview of the cellular senescence pathway, which was significantly (0.0029) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{175}{figure.10.18}
+\contentsline {figure}{\numberline {10.19}{\ignorespaces KEGG pathview of the antigen processing and presentation pathway, which was significantly (0.0028) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{176}{figure.10.19}
+\contentsline {figure}{\numberline {10.20}{\ignorespaces KEGG pathview of the natural killer cell mediated cytotoxicity pathway, which was significantly (0.0028) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{177}{figure.10.20}
+\contentsline {figure}{\numberline {10.21}{\ignorespaces KEGG pathview of the TNF signaling pathway, which was significantly (3.3e-14) upregulated after exposure of the triple coculture cell model to the distal colon SHIME sample.}}{178}{figure.10.21}
+\contentsline {figure}{\numberline {10.22}{\ignorespaces Significantly (p$<$0.01) up- (positive LogFC) and downregulated (negative LogFC) GO BP terms as assessed by gene-set analysis (GSA) in GAGE.}}{180}{figure.10.22}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {11.1}{\ignorespaces Overall and balanced classification error rate (BER) using Maximum, Centroids or Mahalanobis distances}}{182}{figure.11.1}
+\contentsline {figure}{\numberline {11.2}{\ignorespaces Correlation between features in the expression and metadata along the first component.}}{183}{figure.11.2}
+\contentsline {figure}{\numberline {11.3}{\ignorespaces Correlation between features in the expression and metadata along the second component.}}{184}{figure.11.3}
+\contentsline {figure}{\numberline {11.4}{\ignorespaces Sample projection for the separate datasets}}{185}{figure.11.4}
+\contentsline {figure}{\numberline {11.5}{\ignorespaces Sample projection with arrows indicating the location of each sample in the expression and metadata confirms the agreement between datasets at sample level}}{186}{figure.11.5}
+\contentsline {figure}{\numberline {11.6}{\ignorespaces Correlation circle plot highlighting the contribution of each selected variable to each component.}}{187}{figure.11.6}
+\contentsline {figure}{\numberline {11.7}{\ignorespaces Circos plot displaying correlations among the selected functional and transcriptomics variables most predictive for triple coculture cell model treatment.}}{188}{figure.11.7}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

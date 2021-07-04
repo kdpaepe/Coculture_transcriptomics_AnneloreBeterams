@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: TranscriptomicsDataAnalysis.aux
+The style file: acm.bst
+Database file #1: ref.bib
+You've used 11 entries,
+            2253 wiz_defined-function locations,
+            606 strings with 6338 characters,
+and the built_in function-call counts, 4180 in all, are:
+= -- 363
+> -- 317
+< -- 0
++ -- 130
+- -- 118
+* -- 397
+:= -- 747
+add.period$ -- 33
+call.type$ -- 11
+change.case$ -- 92
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 100
+empty$ -- 248
+format.name$ -- 118
+if$ -- 802
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 10
+newline$ -- 58
+num.names$ -- 22
+pop$ -- 76
+preamble$ -- 1
+purify$ -- 81
+quote$ -- 0
+skip$ -- 54
+stack$ -- 0
+substring$ -- 164
+swap$ -- 22
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 44
+warning$ -- 0
+while$ -- 28
+width$ -- 13
+write$ -- 109

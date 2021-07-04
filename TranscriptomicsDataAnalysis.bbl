@@ -1,0 +1,73 @@
+\begin{thebibliography}{10}
+
+\bibitem{Bolstad2004}
+{\sc Bolstad., B.~M.}
+\newblock {\em Low Level Analysis of High-Density Oligonucleotide Data:
+  Background, Normalization and Summarization.}
+\newblock Phd thesis, University of California, Berkeley, 2004.
+
+\bibitem{Gonzalez2012}
+{\sc Gonzalez, I., Le~Cao, K.~A., Davis, M.~J., and Dejean, S.}
+\newblock Visualising associations between paired 'omics' data sets.
+\newblock {\em Biodata Mining 5\/} (2012).
+
+\bibitem{Klaus2016}
+{\sc Klaus, B., and Reisenauer, S.}
+\newblock An end to end workflow for differential gene expression using
+  affymetrix microarrays.
+\newblock {\em F1000Research 5\/} (2016), 1384.
+
+\bibitem{Lippa2010}
+{\sc Lippa, K.~A., Duewer, D.~L., Salit, M.~L., Game, L., and Causton, H.~C.}
+\newblock Exploring the use of internal and externalcontrols for assessing
+  microarray technical performance.
+\newblock {\em BMC research notes 3\/} (2010), 349.
+
+\bibitem{Luo2009}
+{\sc Luo, W.~J., Friedman, M.~S., Shedden, K., Hankenson, K.~D., and Woolf,
+  P.~J.}
+\newblock Gage: generally applicable gene set enrichment for pathway analysis.
+\newblock {\em Bmc Bioinformatics 10\/} (2009).
+
+\bibitem{Moffitt2011}
+{\sc Moffitt, R.~A., Qiqin, Y.~G., Stokes, T.~H., Parry, R.~M., Torrance,
+  J.~H., Phan, J.~H., Young, A.~N., and Wang, M.~D.}
+\newblock cacorrect2: Improving the accuracy and reliability of microarray data
+  in the presence of artifacts.
+\newblock {\em Bmc Bioinformatics 12\/} (2011).
+
+\bibitem{Phipson2016}
+{\sc Phipson, B., Lee, S., Majewski, I.~J., Alexander, W.~S., and Smyth, G.~K.}
+\newblock Robust hyperparameter estimation protects against hypervariable genes
+  and improves power to detect differential expression.
+\newblock {\em Annals of Applied Statistics 10}, 2 (2016), 946--963.
+
+\bibitem{Ritchie2015}
+{\sc Ritchie, M.~E., Phipson, B., Wu, D., Hu, Y.~F., Law, C.~W., Shi, W., and
+  Smyth, G.~K.}
+\newblock limma powers differential expression analyses for rna-sequencing and
+  microarray studies.
+\newblock {\em Nucleic Acids Research 43}, 7 (2015).
+
+\bibitem{Singh2019}
+{\sc Singh, A., Shannon, C.~P., Gautier, B., Rohart, F., Vacher, M., Tebbutt,
+  S.~J., and Le~Cao, K.~A.}
+\newblock Diablo: an integrative approach for identifying key molecular drivers
+  from multi-omics assays.
+\newblock {\em Bioinformatics 35}, 17 (2019), 3055--3062.
+
+\bibitem{Song2007}
+{\sc Song, J.~S., Maghsoudi, K., Li, W., Fox, E., Quackenbush, J., and
+  Shirley~Liu, X.}
+\newblock Microarray blob-defect removal improves array analysis.
+\newblock {\em Bioinformatics (Oxford, England) 23}, 8 (2007), 966--71.
+
+\bibitem{Upton2009}
+{\sc Upton, G.~J., Sanchez-Graillet, O., Rowsell, J., Arteaga-Salas, J.~M.,
+  Graham, N.~S., Stalteri, M.~A., Memon, F.~N., May, S.~T., and Harrison,
+  A.~P.}
+\newblock On the causes of outliers in affymetrix genechip data.
+\newblock {\em Briefings in functional genomics \& proteomics 8}, 3 (2009),
+  199--212.
+
+\end{thebibliography}
