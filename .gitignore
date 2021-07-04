@@ -1,15 +1,6 @@
 .Rproj.user
 .Rhistory
 .Ruserdata
-*.bed
-*.tab
-*.pgf
-*.fa
-*.bgp
-*.mps
-*.pgf
-*.ps
-*.qcc
 *.tiff
 *.jpg
 *.rdb
